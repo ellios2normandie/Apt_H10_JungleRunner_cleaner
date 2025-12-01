@@ -1,0 +1,1911 @@
+---
+streaming:
+  sectors:
+    - expectedNodes: 399
+      path: base\worlds\03_night_city\_compiled\default\exterior_-21_20_1_0.streamingsector
+      nodeDeletions:
+        # Antenne
+        - type: worldStaticMeshNode
+          index: 306
+        - type: worldStaticMeshNode
+          index: 305
+
+    - expectedNodes: 2044
+      path: base\worlds\03_night_city\_compiled\default\exterior_-6_5_0_2.streamingsector
+      nodeDeletions:
+        # Antenne
+        - type: worldStaticMeshNode
+          index: 985
+
+    - expectedNodes: 2043
+      path: base\worlds\03_night_city\_compiled\default\exterior_-3_2_0_3.streamingsector
+      nodeDeletions:
+        # Antenne
+        - type: worldGenericProxyMeshNode
+          index: 334
+
+    - expectedNodes: 3496
+      path: base\worlds\03_night_city\_compiled\default\exterior_-11_10_0_1.streamingsector
+      nodeDeletions:
+        # Antenne
+        - type: worldInstancedMeshNode
+          index: 2479
+
+    - expectedNodes: 1
+      path: water_tower\sectors\water_tower.streamingsector
+      nodeDeletions:
+        # Antenne
+        - type: worldMeshNode
+          index: 0
+
+    - expectedNodes: 21
+      path: little_china-h10_across\sectors\little_china-h10_across.streamingsector
+      nodeDeletions:
+        # Antenne Assiette
+        - type: worldMeshNode
+          index: 2
+
+
+
+
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 321
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 518
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 418
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 223
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 369
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 419
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 893
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 868
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 241
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedMeshNode
+          index: 1069
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 313
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 393
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 408
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 284
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 407
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedMeshNode
+          index: 1061
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 401
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 890
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 750
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 867
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 248
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 301
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 699
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 381
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 285
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 413
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 217
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 218
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 242
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 312
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 239
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 275
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 278
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 300
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 353
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 356
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 295
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 290
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 264
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 253
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 212
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticDecalNode
+          index: 14
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 750
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 870
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 417
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldPhysicalDestructionNode
+          index: 456
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 277
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedMeshNode
+          index: 1067
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldPhysicalDestructionNode
+          index: 462
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 411
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 398
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 247
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 256
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 279
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 292
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 329
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 354
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 366
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 302
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # carton bureau
+        - type: worldInstancedDestructibleMeshNode
+          index: 389
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # carton bureau
+        - type: worldInstancedDestructibleMeshNode
+          index: 410
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # carton sol couloir
+        - type: worldStaticMeshNode
+          index: 881
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 1087
+
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 544
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 540
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 1091
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 296
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # carton bureau
+        - type: worldInstancedDestructibleMeshNode
+          index: 372
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # carton bureau
+        - type: worldInstancedDestructibleMeshNode
+          index: 384
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticDecalNode
+          index: 20
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # lampe bureau
+        - type: worldInstancedDestructibleMeshNode
+          index: 341
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedMeshNode
+          index: 918
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 635
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticDecalNode
+          index: 21
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticDecalNode
+          index: 7
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # couvercles gobelets
+        - type: worldInstancedDestructibleMeshNode
+          index: 215
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # gobelets - café
+        - type: worldInstancedDestructibleMeshNode
+          index: 233
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # gobelets - café
+        - type: worldInstancedDestructibleMeshNode
+          index: 246
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 490
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 641
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 473
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 538
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 506
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 757
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 645
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # chauffage
+        - type: worldStaticMeshNode
+          index: 791
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticDecalNode
+          index: 9
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # ventilateur - plafond
+        - type: worldEntityNode
+          index: 450
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # planche de surf
+        - type: worldStaticMeshNode
+          index: 766
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # planche de surf
+        - type: worldStaticMeshNode
+          index: 767
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # chaise - planque
+        - type: worldPhysicalDestructionNode
+          index: 459
+
+    - expectedNodes: 1116
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_39_3_0.streamingsector
+      nodeDeletions:
+        # cosmetic SdB
+        - type: worldInstancedDestructibleMeshNode
+          index: 213
+
+
+
+
+
+
+
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 816
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # sac poubelle
+        - type: worldStaticMeshNode
+          index: 384
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # sac poubelle appart, doute sur le type
+        - type: worldStaticMeshNode
+          index: 391
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 661
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 338
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 342
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 345
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 312
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 660
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticParticleNode
+          index: 663
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 662
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 514
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 347
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 673
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticParticleNode
+          index: 664
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 331
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 376
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 353
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedMeshNode
+          index: 444
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # tableau-espace
+        - type: worldStaticMeshNode
+          index: 491
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # tableau-espace
+        - type: worldStaticMeshNode
+          index: 492
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 375
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cartes
+        - type: worldStaticMeshNode
+          index: 723
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cartes
+        - type: worldStaticMeshNode
+          index: 724
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # jeu River
+        - type: worldStaticMeshNode
+          index: 725
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cartes
+        - type: worldStaticMeshNode
+          index: 726
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # papiers
+        - type: worldStaticMeshNode
+          index: 727
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 691
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 784
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 785
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 336
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldEntityNode
+          index: 696
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # proteine iguane
+        - type: worldStaticMeshNode
+          index: 736
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # medoc SdB
+        - type: worldStaticMeshNode
+          index: 738
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cigarette SdB
+        - type: worldStaticMeshNode
+          index: 750
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # tabac iguane
+        - type: worldStaticMeshNode
+          index: 756
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # quadra bureau
+        - type: worldStaticMeshNode
+          index: 734
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # quadra bureau 2
+        - type: worldStaticMeshNode
+          index: 797
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 658
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 486
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldEntityNode
+          index: 484
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldEntityNode
+          index: 485
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 346
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 339
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedMeshNode
+          index: 441
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedMeshNode
+          index: 439
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 352
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # poster pinup
+        - type: worldStaticMeshNode
+          index: 548
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # poster pinup
+        - type: worldStaticMeshNode
+          index: 549
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldEntityNode
+          index: 255
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # poster
+        - type: worldStaticMeshNode
+          index: 839
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # poster
+        - type: worldEntityNode
+          index: 258
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # poster
+        - type: worldStaticMeshNode
+          index: 546
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 315
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 675
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 326
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 671
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 343
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 674
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 676
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 333
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 672
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 690
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 688
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 659
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldEntityNode
+          index: 695
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 349
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedMeshNode
+          index: 443
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # réveil corpo
+        - type: worldInstancedDestructibleMeshNode
+          index: 657
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # verre wisky
+        - type: worldStaticMeshNode
+          index: 316
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldEntityNode
+          index: 264
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 334
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 325
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 686
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldPhysicalDestructionNode
+          index: 670
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedMeshNode
+          index: 436
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 687
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cadre intelligent bureau
+        - type: worldEntityNode
+          index: 272
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cadre intelligent chambre
+        - type: worldEntityNode
+          index: 282
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedMeshNode
+          index: 436
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # verre whiskey bureau
+        - type: worldStaticMeshNode
+          index: 317
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # vêtements placard
+        - type: worldEntityNode
+          index: 273
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # lumière chambre
+        - type: worldStaticLightNode
+          index: 82
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # lumière chambre
+        - type: worldStaticMeshNode
+          index: 377
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # lumière entrée
+        - type: worldStaticLightNode
+          index: 93
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # lumière entrée
+        - type: worldStaticMeshNode
+          index: 374
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # quadra - jouet
+        - type: worldStaticMeshNode
+          index: 733
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # vetements 1
+        - type: worldCollisionNode
+          index: 763
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # vetements 2
+        - type: worldStaticMeshNode
+          index: 770
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # vetements 3
+        - type: worldCollisionNode
+          index: 771
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # burger
+        - type: worldStaticMeshNode
+          index: 755
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cendrier bureau
+        - type: worldStaticMeshNode
+          index: 685
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cendrier bureau 2
+        - type: worldInstancedDestructibleMeshNode
+          index: 749
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cendres bureau
+        - type: worldStaticMeshNode
+          index: 682
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # cendres bureau 2
+        - type: worldStaticDecalNode
+          index: 747
+
+    - expectedNodes: 846
+      path: base\worlds\03_night_city\_compiled\default\exterior_-22_19_1_0.streamingsector
+      nodeDeletions:
+        # tabac bureau
+        - type: worldStaticMeshNode
+          index: 759
+
+
+
+
+
+
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        # apparth10
+        - type: worldStaticMeshNode
+          index: 7
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 3
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 5
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 4
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 2
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 9
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 13
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 12
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 11
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 8
+
+    - expectedNodes: 15
+      path: base\worlds\03_night_city\_compiled\default\quest_b705140105a75f58.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 6
+
+
+
+
+
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # chaise tranquil. lunaire
+        - type: worldStaticMeshNode
+          index: 45
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # chaise corpo (noir)
+        - type: worldStaticMeshNode
+          index: 12
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # chaise bar lounge (jaune)
+        - type: worldStaticMeshNode
+          index: 29
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # chaise residentiel (default)
+        - type: worldStaticMeshNode
+          index: 98
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # chaise bar lounge (default)
+        - type: worldStaticMeshNode
+          index: 62
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # chaise bar lounge (default)
+        - type: worldStaticMeshNode
+          index: 80
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # machine a café kitsch
+        - type: worldStaticMeshNode
+          index: 46
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # tasse a café kitsch
+        - type: worldStaticMeshNode
+          index: 47
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # machine a café kitsch 2
+        - type: worldStaticMeshNode
+          index: 13
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # tasse a café kitsch 2
+        - type: worldStaticMeshNode
+          index: 14
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # machine a café 3
+        - type: worldStaticMeshNode
+          index: 30
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # machine a café 4
+        - type: worldStaticMeshNode
+          index: 100
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # machine a café 5
+        - type: worldStaticMeshNode
+          index: 64
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # machine a café 6
+        - type: worldStaticMeshNode
+          index: 82
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # micro-onde
+        - type: worldStaticMeshNode
+          index: 99
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # micro-onde 2
+        - type: worldStaticMeshNode
+          index: 63
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # micro-onde 3
+        - type: worldStaticMeshNode
+          index: 81
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # plateau 2
+        - type: worldStaticMeshNode
+          index: 65
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # plateau 2
+        - type: worldStaticMeshNode
+          index: 83
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 101
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # pouf cuisine 1 (doré)
+        - type: worldStaticMeshNode
+          index: 11
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # pouf cuisine 2 (noir)
+        - type: worldStaticMeshNode
+          index: 44
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # pouf cuisine 3 (violet)
+        - type: worldStaticMeshNode
+          index: 97
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # pouf cuisine 3 (bleu)
+        - type: worldStaticMeshNode
+          index: 28
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # pouf cuisine 4 (rose)
+        - type: worldStaticMeshNode
+          index: 61
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # pouf cuisine 5 (gris metal)
+        - type: worldStaticMeshNode
+          index: 79
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # collision pouf 1
+        - type: worldCollisionNode
+          index: 15
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # collision pouf 2
+        - type: worldCollisionNode
+          index: 48
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # collision pouf 3
+        - type: worldCollisionNode
+          index: 31
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # collision pouf 4
+        - type: worldCollisionNode
+          index: 102
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # collision pouf 4
+        - type: worldCollisionNode
+          index: 66
+
+    - expectedNodes: 104
+      path: base\worlds\03_night_city\_compiled\default\quest_3509076113f76078.streamingsector
+      nodeDeletions:
+        # collision pouf 4
+        - type: worldCollisionNode
+          index: 84
+
+
+
+
+
+
+
+
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # coussin chambre
+        - type: worldStaticMeshNode
+          index: 48
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # distributeur (noir-gris)
+        - type: worldEntityNode
+          index: 361
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # distributeur (beige)
+        - type: worldEntityNode
+          index: 185
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # distributeur (blanc)
+        - type: worldEntityNode
+          index: 41
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # distributeur (rose)
+        - type: worldEntityNode
+          index: 457
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # distributeur (bleu)
+        - type: worldEntityNode
+          index: 281
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # distributeur (jaune)
+        - type: worldEntityNode
+          index: 217
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # coussin chambre 2 poor
+        - type: worldStaticMeshNode
+          index: 189
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # coussin chambre 2
+        - type: worldStaticMeshNode
+          index: 190
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # coussin chambre 3 poor
+        - type: worldStaticMeshNode
+          index: 191
+
+    - expectedNodes: 482
+      path: base\worlds\03_night_city\_compiled\default\quest_2467054678ccf8f6.streamingsector
+      nodeDeletions:
+        # coussin chambre 4 poor
+        - type: worldStaticMeshNode
+          index: 192
+
+
+
+
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticDecalNode
+          index: 3
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticDecalNode
+          index: 7
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 18
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 20
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 21
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 22
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 24
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        # autocollant
+        - type: worldStaticMeshNode
+          index: 25
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 26
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 27
+
+    - expectedNodes: 109
+      path: base\worlds\03_night_city\_compiled\default\quest_2be595b225125038.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 29
+
+
+
+
+
+
+
+    - expectedNodes: 166
+      path: base\worlds\03_night_city\_compiled\default\quest_acd280b2b73c4d5b.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 163
+
+    - expectedNodes: 100
+      path: base\worlds\03_night_city\_compiled\default\interior_-43_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldInstancedDestructibleMeshNode
+          index: 24
+
+    - expectedNodes: 100
+      path: base\worlds\03_night_city\_compiled\default\interior_-43_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 37
+
+    - expectedNodes: 100
+      path: base\worlds\03_night_city\_compiled\default\interior_-43_39_3_0.streamingsector
+      nodeDeletions:
+        - type: worldStaticMeshNode
+          index: 41
+
+
+
+
+    - expectedNodes: 447
+      path: base\worlds\03_night_city\_compiled\default\interior_-22_19_1_1.streamingsector
+      nodeDeletions:
+        - type: worldStaticDecalNode
+          index: 57
+
+    - expectedNodes: 447
+      path: base\worlds\03_night_city\_compiled\default\interior_-22_19_1_1.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldPhysicalDestructionNode
+          index: 130
+
+
+
+
+
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 288
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 315
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 320
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 399
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 420
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 479
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 573
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 612
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 712
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldInstancedDestructibleMeshNode
+          index: 672
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # journal sol couloir
+        - type: worldStaticMeshNode
+          index: 1253
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # journal sol couloir
+        - type: worldStaticMeshNode
+          index: 1263
+
+    - expectedNodes: 1610
+      path: base\worlds\03_night_city\_compiled\default\interior_-44_40_3_0.streamingsector
+      nodeDeletions:
+        # déchets H10
+        - type: worldStaticMeshNode
+          index: 1365
+
+
+
+
+
